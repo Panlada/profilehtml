@@ -1,0 +1,47 @@
+/* CSS files --> experiences.html */
+body{
+    background-image: url('https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #ec3db2;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #56d6fd;
+} 
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+.table-content{
+    margin-left: auto; 
+    margin-right: auto;
+   
+}
+.ul-circle{
+    list-style-type:circle;
+    background-color: #FFCFDF;
+} 
+.ul-disc{
+    list-style-type:disc;
+    background-color: #FFCFDF;
+}
+.ul-square{
+    list-style-type:square;
+    background-color: #FFCFDF;
+}
+.ol-order{
+    background-color: #FFCFDF;
+}
